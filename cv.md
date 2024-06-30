@@ -46,6 +46,20 @@ function colourAssociation(array){
 console.log(colourAssociation([["white", "goodness"], ["blue", "tranquility"]]));
 ```
 
+## Education
+
+* Courses
+    * RS.SCHOOL
+    * FreeCodeCamp
+    * HTML Academy
+* Belorussian State Economic University, Height School of Tourism
+
+## Languages
+
+Russian - Native
+English - Elementary
+
+
 
 
 
