@@ -56,8 +56,8 @@ console.log(colourAssociation([["white", "goodness"], ["blue", "tranquility"]]))
 
 ## Languages
 
-*Russian - Native
-*English - Elementary
+* Russian - Native
+* English - Elementary
 
 
 
